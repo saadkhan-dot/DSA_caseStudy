@@ -371,33 +371,6 @@ Mumbai <-> Berlin
 
 ---
 
-# 2.10 Screenshots
-
-Add screenshots of:
-
-1. Main Menu
-2. Queue Status
-3. Shortest Path Output
-4. DFS Backup Route Output
-5. Archive Search Output
-6. GRIDMAP Network View
-7. Rollback Operation
-8. Communication Link Failure Simulation
-
-Example:
-
-```md
-![Main Menu](screenshots/main_menu.png)
-<img width="537" height="268" alt="Screenshot 2026-06-18 at 8 08 29 AM" src="https://github.com/user-attachments/assets/f9f8bd8d-5729-4735-892e-b759d0a13bf8" />
-
-
-![Grid Map](screenshots/gridmap.png)
-
-![Archive Search](screenshots/archive_search.png)
-```
-
----
-
 # 2.11 Results and Observations
 
 * Queue successfully maintained FIFO message processing.
